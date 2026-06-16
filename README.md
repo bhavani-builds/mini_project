@@ -74,7 +74,7 @@ techmart/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/techmart.git
+git clone https://github.com/bhavani-builds/techmart.git
 cd techmart
 ```
 
